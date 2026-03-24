@@ -1,0 +1,41 @@
+[
+    {
+        "id": "p1",
+        "title": "Fashionopolis",
+        "author": "Dana Thomas",
+        "img": "book1"
+    },
+    {
+        "id": "p2",
+        "title": "Chanel",
+        "author": "Patrick Mauriès",
+        "img": "book2"
+    },
+    {
+        "id": "p3",
+        "title": "Calligraphy",
+        "author": "June & Lucy",
+        "img": "book3"
+    },
+    {
+        "id": "n1",
+        "title": "Yves Saint Laurent",
+        "author": "Catwalk",
+        "img": "book4",
+        "stars":4
+    },
+    {
+        "id": "n2",
+        "title": "The Book of Signs",
+        "author": "Rudolf Koch",
+        "img": "book5",
+        "stars":3
+    },
+    {
+        "id": "n3",
+        "title": "Stitched Up",
+        "author": "Tansy E. Hoskins",
+        "img": "book6",
+        "stars":3
+    }
+]
